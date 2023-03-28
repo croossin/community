@@ -1,0 +1,8 @@
+---
+id: youtube-stats
+name: YouTube Stats
+summary: View your YouTube stats
+desc: View your YouTube stats such as total subscriber and view count.
+author: Chase Roossin
+fileName: youtube_stats.star
+packageName: youtubestats
